@@ -2,7 +2,7 @@ const viewerBackgroundColor = '#e5ddd5';
 const viewerDarkBackgroundColor = '#0d1418';
 
 const activeUserBackgroundColor = '#ddf7c8';
-const activeUserDarkBackgroundColor = '#0e6162';
+const activeUserDarkBackgroundColor = '#144D37';
 const systemBackgroundColor = '#fff5c4';
 const systemDarkBackgroundColor = '#353526';
 
